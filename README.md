@@ -4,7 +4,7 @@ I'm a systems engineer / back-end developer who's always eager to learn new thin
 
 👯 I am interested in belonging to a team where ideas can be shared as well as knowledge, you can't ever get enough of all those tips and tricks that you can learn through teamwork.
 
-🚀 My main strength is in Java developments along with SQL, although I'm always willing to learn new technologies that can boots my abilities.
+🚀 My main strength is in Java developments along with SQL, although I'm always willing to learn new technologies that can boost my abilities.
 
 🌱 I'm currently learning front-end with React, I find truly interesting the beautiful things that can be seen and created.
 
